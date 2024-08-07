@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.roshandemo</groupId>
-  <artifactId>KafkaProducer</artifactId>
+  <artifactId>SpringBootKafkaProducer</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
 
