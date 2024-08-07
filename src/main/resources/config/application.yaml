@@ -1,0 +1,11 @@
+spring:
+  kafka:
+    consumer:
+      auto-offset-reset: latest
+      group-id: com.roshandemo-KafkaProducer
+
+kafka:
+  consumer:
+    topic: quickstart-events
+  producer:
+    topic: quickstart-events
